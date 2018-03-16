@@ -4,8 +4,9 @@ This is the Artificial Intelligence class introduced by Dr Eamonn Keogh in UC, R
 This project contains:<br />
 **Course material**: used in class; (file: Course Material) <br />
 **Homework description**: and my solution; (file: Homework1)<br />
-**Project 1**: 8-puzzle description and my solution; (file: Project1 8-puzzle) <br />
-**Project 2**: Feature Selection with Nearest Neighbor, problem description and my solution; (file: Project2 Feature Selection) <br />
+**Project 1**: 8-puzzle description and my solution in C++ ; (file: Project1 8-puzzle) <br />
+**Project 2**: Feature Selection with Nearest Neighbor, problem description and my solution with matlab; <br />
+               (file: Project2 Feature Selection) <br />
 ## Learning Summary
   This class covers three main section :1) Search 2) Machine Learning 3)Knowledge Representation <br />
 ### Search: <br />
