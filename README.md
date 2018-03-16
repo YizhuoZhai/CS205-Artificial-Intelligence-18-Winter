@@ -23,6 +23,6 @@ This project contains:<br />
     Distance between two clusters: single/complete/group average/words linkage. <br />
   6) Nearest Neighbor Clustering: best for time series. <br />
 ### Knowledge Representation <br />
-  1) Propositional Logic: Truth Tables and Using Inference Rule
-  2) First Order Logic: Substitution with GMP (not complete), resolution refutation (complete).
-     Horn Form: a conjunction of atomic sentences on the left side, while a single atome on the right side.
+  1) Propositional Logic: Truth Tables and Using Inference Rule. <br />
+  2) First Order Logic: Substitution with GMP (not complete), resolution refutation (complete). <br />
+     Horn Form: a conjunction of atomic sentences on the left side, while a single atome on the right side. <br />
