@@ -1,1 +1,1 @@
-# CS205-Artificial-Intelligence-18-Winter
+# CS205-Artificial-Intelligence-18-WinterThis is the Artificial Intelligence class introduced by Dr Eamonn Keogh in UC, Riverside 2018 Winter Quarter.This project contains:Slides used in class;Homework description and my solution;Project 1: 8-puzzle description and solutionProject 2: Feature Selection with Nearest Neighbor, problem description and solution.
